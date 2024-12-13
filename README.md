@@ -1,7 +1,6 @@
-=======
-# neuro-caret-tech-gas
+# neuro-care-tech-gas
 
-##デプロイ方法
+## デプロイ方法
 1. Google Apps ScriptにCode.gsを作成
 2. GASの設定画面から環境変数を設定
      DIFY_API_KEY, LINE_ACCESS_TOKEN
