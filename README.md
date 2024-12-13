@@ -1,5 +1,5 @@
 =======
-# neuro-caret-tech-gas
+# neuro-care-tech-gas
 
 ##デプロイ方法
 1. Google Apps ScriptにCode.gsを作成
